@@ -25,7 +25,3 @@ user1>> hubot remember test is 5
 user1>> hubot what is test
 hubot>> 5
 ```
-
-## NPM Module
-
-https://www.npmjs.com/package/hubot-remember
